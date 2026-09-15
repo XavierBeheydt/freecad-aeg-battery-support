@@ -8,9 +8,9 @@ repository.
 
 This is a personal FreeCAD modeling project, not a software project — there
 is no build, lint, or test tooling. The goal is to design a 3D-printable
-battery support/mount for an AEG (airsoft) battery, modeled from reference
-photos, following the photo-to-3D-sketch approach described in
-[README.md](README.md).
+battery support/mount for an AEG (power tools) battery — the kind used in
+AEG cordless drills — modeled from reference photos, following the
+photo-to-3D-sketch approach described in [README.md](README.md).
 
 ## Repository structure
 

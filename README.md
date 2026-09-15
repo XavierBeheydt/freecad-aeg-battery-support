@@ -1,8 +1,8 @@
 # FreeCAD AEG Battery Support
 
 Personal project to design a 3D-printable battery support/mount in FreeCAD
-for an AEG (airsoft) battery pack that I own, modeled from my own reference
-photos.
+for an AEG (power tools) battery pack that I own — the kind used in AEG
+cordless drills — modeled from my own reference photos.
 
 This isn't a tutorial — it's my own modeling attempt, following the approach
 shown in a YouTube tutorial but applied to my own battery. I'll add more
