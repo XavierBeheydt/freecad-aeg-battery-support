@@ -1,0 +1,11 @@
+# FreeCAD backups
+*.FCBak
+*.FCStd1
+*.FCStd2
+
+# OS cruft
+.DS_Store
+Thumbs.db
+
+# Others
+backup/
