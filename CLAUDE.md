@@ -20,12 +20,10 @@ photo-to-3D-sketch approach described in [README.md](README.md).
   documenting the image cleanup and modeling workflow.
 - `cad/` — FreeCAD source file(s) (`.FCStd`).
 - `exports/` — STEP / STL / 3MF exports for slicing and printing.
-- `TODO.md` — task list and progress tracker; check it for the current step
-  before suggesting next actions.
 
 ## Language
 
-Write everything in this repository — README, TODO, commit messages, code
+Write everything in this repository — README, commit messages, code
 comments, docs — in English only. Conversation with the user can be in
 whichever language they use.
 

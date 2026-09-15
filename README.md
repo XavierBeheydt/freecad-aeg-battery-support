@@ -30,12 +30,8 @@ docs/
 cad/                     # FreeCAD source file(s) (.FCStd)
 
 exports/                 # STEP / STL / 3MF exports for slicing and printing
-
-TODO.md                  # task list and progress tracker
 ```
 
 ## Status
 
-Work in progress — see [TODO.md](TODO.md) for the current step and next
-tasks. The FreeCAD source file isn't committed yet while the model is still
-very early; it'll be added once there's a first meaningful version.
+Work in progress.
