@@ -18,6 +18,8 @@ photo-to-3D-sketch approach described in [README.md](README.md).
   "layout" versions used for tracing in FreeCAD sketches).
 - `docs/screenshots/gimp/`, `docs/screenshots/freecad/` — screenshots
   documenting the image cleanup and modeling workflow.
+- `docs/screenshots/prints/` — photos documenting the 3D print test
+  iterations and the final print.
 - `cad/` — FreeCAD source file(s) (`.FCStd`).
 - `exports/` — STEP / STL / 3MF exports for slicing and printing.
 

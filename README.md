@@ -25,13 +25,30 @@ pics/                   # reference photos of the battery (raw shots and
 docs/
 └── screenshots/
     ├── gimp/            # screenshots documenting image cleanup in GIMP
-    └── freecad/         # screenshots documenting the FreeCAD modeling steps
+    ├── freecad/         # screenshots documenting the FreeCAD modeling steps
+    └── prints/          # photos documenting the 3D print test iterations
+                          # and the final print
 
 cad/                     # FreeCAD source file(s) (.FCStd)
 
 exports/                 # STEP / STL / 3MF exports for slicing and printing
 ```
 
+## Print tests
+
+A few iterations were needed to get the connector opening and the overall
+fit right:
+
+| | | |
+|---|---|---|
+| ![Broken prototype](docs/screenshots/prints/test-01-broken-prototype.jpeg) | ![Connector fit test](docs/screenshots/prints/test-02-connector-fit.jpeg) | ![Cap fit test](docs/screenshots/prints/test-03-cap-fit.jpeg) |
+| ![Opening calibration prints](docs/screenshots/prints/test-04-opening-calibration.jpeg) | ![Fit measurement](docs/screenshots/prints/test-05-fit-measurement.jpeg) | ![Opening measurement](docs/screenshots/prints/test-06-opening-measurement.jpeg) |
+| ![Battery reference measurement](docs/screenshots/prints/test-07-battery-reference.jpeg) | | |
+
+## Final print
+
+![Final print, fitted on the battery](docs/screenshots/prints/final-print.jpeg)
+
 ## Status
 
-Work in progress.
+v1.0.0 — first working print, fitted and validated on the actual battery.
