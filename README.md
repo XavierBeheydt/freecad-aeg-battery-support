@@ -47,7 +47,9 @@ fit right:
 
 ## Final print
 
-![Final print, fitted on the battery](docs/screenshots/prints/final-print.jpeg)
+| | |
+|---|---|
+| ![Final print, fitted on the battery](docs/screenshots/prints/final-print.jpeg) | ![Final print, empty cavity detail](docs/screenshots/prints/final-print-interior.jpeg) |
 
 ## Status
 
